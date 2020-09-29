@@ -7,7 +7,7 @@
         {
             "name": "Unity Editor",
             "type": "unity",
-            "path": "/e:/_/D/unity_prj/Shiva/Library/EditorInstance.json",
+            "path": "/e:/D/unity_prj/Lesson5/Library/EditorInstance.json",
             "request": "launch"
         },
         {
