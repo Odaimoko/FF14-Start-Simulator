@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - BattleManager
+  - ui
+  - StatusList
   layers:
   - Default
   - TransparentFX
